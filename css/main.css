@@ -2121,7 +2121,7 @@ p::after, div::after, ul::after, ol::after, li::after, form::after {
     background-color: #bc4646;
     background: linear-gradient(90deg,#f87c4b,#0ad1c9);}
     
-    .youtube {
+.youtube {
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
@@ -2131,7 +2131,7 @@ p::after, div::after, ul::after, ol::after, li::after, form::after {
     cursor: pointer;
     width: 100%;
     padding-bottom: 56.25%;
-    height: auto;}
+}
     
     .youtube .play {
     background: url("/site/img/youtube-play-btn.png") no-repeat;
