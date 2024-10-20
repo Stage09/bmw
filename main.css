@@ -51,6 +51,15 @@ body {
     text-align: left;
     color: #555;}
     
+    .strongb { 
+        color: #0092cb;
+    }
+    .strongm {
+        color:#2f1989;
+    }
+    .strongw {
+        color:#c60d0f;
+    }
     
     h1 {
     font-family: Roboto Condensed;
