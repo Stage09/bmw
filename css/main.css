@@ -2130,7 +2130,7 @@ p::after, div::after, ul::after, ol::after, li::after, form::after {
     transition: all 200ms ease-out;
     cursor: pointer;
     width: 100%;
-    padding-bottom: 56.25%;
+    /* padding-bottom: 56.25%; */
 }
     
     .youtube .play {
