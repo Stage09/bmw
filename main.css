@@ -16,18 +16,24 @@ body {
     padding: 0;
 }
     
-    .zero {
+.zero {
     height: auto;
     margin: 0 auto;
     position: relative;
     width: 100%;
-    max-width: 1000px;}
+    max-width: 1000px;
+}
     
-    p::after, div::after, ul::after, ol::after, li::after, form::after {
+p::after, div::after, ul::after, ol::after, li::after, form::after {
     clear: both;
     content: "";
-    display: block;}
-    
+    display: block;
+}
+.zero-img{
+    border: none;
+    background-color: transparent;
+    display: none;
+}    
     .block1 {
     position: relative;
     width: 100%;
