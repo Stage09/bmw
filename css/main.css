@@ -2133,7 +2133,7 @@ p::after, div::after, ul::after, ol::after, li::after, form::after {
     /* padding-bottom: 56.25%; */
 }
     
-    .youtube .play {
+    /* .youtube .play {
     background: url("/site/img/youtube-play-btn.png") no-repeat;
     background-position: 0 -50px;
     -webkit-background-size: 100% auto;
@@ -2146,12 +2146,12 @@ p::after, div::after, ul::after, ol::after, li::after, form::after {
     left:0;
     right:0;
     bottom:0;
-    margin:auto;}
+    margin:auto;} */
     
-    .youtube:hover .play {background-position: 0 0;}
+    /* .youtube:hover .play {background-position: 0 0;} */
     
-    .cars_new {}
-    
+    /* .cars_new {}
+     */
     .cars_new_text {
     font-family: 'Open Sans', 'Arial';
     font-size: 1.2em;
@@ -2198,7 +2198,8 @@ p::after, div::after, ul::after, ol::after, li::after, form::after {
     text-align: center;
     font-size: 1.3em;
     font-weight: bold;
-    margin-bottom: 25px;}
+    margin-bottom: 25px;
+}
     
     .block_modeli_photo_text a {text-decoration: underline;}
     
